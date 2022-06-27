@@ -1,0 +1,10 @@
+.spyproject/
+.idea/
+data/
+__pycache__/
+catboost_info/
+src/configs/dbConnectionsConfig.json
+production_configs/dbConnectionsConfig.json
+buffer_recommend_*.csv
+env
+*.env
